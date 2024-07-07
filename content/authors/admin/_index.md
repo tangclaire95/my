@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Xiaoyi Tang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xiaoyi
+last_name: Tang
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+# icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,69 +20,67 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Delaware
+    url: https://www.udel.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:xtang@udel.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/xiaoyi_tang
+  #- icon: brands/instagram
+   # url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/tangclaire95
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: linkedin.com/in/xiaoyitang/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=6EJDwlkAAAAJ&hl=en
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
+  - Psycholinguistics
   - Computational Linguistics
-  - Information Retrieval
+  - Sentence Processing
+  - Experimental Syntax
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. Linguistics and Cognitive Science 
+    institution: University of Delaware
+    date_start: 2020-08-01
+    date_end: 2025-05-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis on _Classifiers and relative clauses_. Supervised by Prof Rebecca Tollan (https://sites.udel.edu/rtollan/). 
+    # Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+  - area: M.S. Educational Linguistics
+    institution: University of Pennsylvania
+    date_start: 2018-08-01
+    date_end: 2020-05-31
     summary: |
-      GPA: 3.8/4.0
-
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - 123 
+      - 333
+      - 333
+  - area: B.A. Translation and Interpreting
+    institution: Central China Normal University 
+    date_start: 2014-08-01
+    date_end: 2018-12-31
     summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - 12
+      - 123
+      - 123
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -92,9 +90,9 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - 123
+      - 123
+      - 123
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -182,5 +180,5 @@ awards:
 ---
 
 ## About Me
-
+Xiaoyi Tang is a PhD candidate in Linguistics and Cognitive Science at the University of Delaware. Her research interests include 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
