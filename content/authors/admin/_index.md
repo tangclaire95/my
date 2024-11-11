@@ -58,7 +58,7 @@ education:
     date_start: 2020-08-01
     date_end: 2025-05-31
     summary: |
-      Thesis on _Classifiers and relative clauses_. Supervised by Prof Rebecca Tollan (https://sites.udel.edu/rtollan/). 
+      Supervised by Dr. Rebecca Tollan. 
     # Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:
     #  text: 'Read Thesis'
@@ -67,43 +67,39 @@ education:
     institution: University of Pennsylvania
     date_start: 2018-08-01
     date_end: 2020-05-31
-    summary: |
-      Courses included:
-      - 123 
-      - 333
-      - 333
+    summary: | 
+    Primarily worked with Dr. Nelson Flores on the project of "English-Spanish Bilingual Education in Philadelphia" 
+      
   - area: B.A. Translation and Interpreting
     institution: Central China Normal University 
     date_start: 2014-08-01
     date_end: 2018-12-31
     summary: |
-      Courses included:
-      - 12
-      - 123
-      - 123
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - 123
-      - 123
-      - 123
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on _A Sociophonetic Study on Word-final Consonant Clusters of Regular Past Tense Verbs- the (-t, d) Deletion_ 
+      
+#work:
+  #- position: Director of Cloud Infrastructure
+   # company_name: GenCoin
+    #company_url: ''
+    #company_logo: ''
+    #date_start: 2021-01-01
+    #date_end: ''
+    #summary: |2-
+     # Responsibilities include:
+      #- 123
+      #- 123
+      #- 123
+#  - position: Backend Software Engineer
+ #   company_name: X
+  #  company_url: ''
+   # company_logo: ''
+    #date_start: 2016-01-01
+ #   date_end: 2020-12-31
+ #   summary: |
+  #    Responsibilities include:
+  #    - Migrated infrastructure to a new data center
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+   #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -134,24 +130,25 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Tennis
         description: ''
         percent: 80
         icon: camera
 
 languages:
   - name: English
-    percent: 100
+    percent: 90
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: German
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+
+Certificate:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
@@ -180,5 +177,4 @@ awards:
 ---
 
 ## About Me
-Xiaoyi Tang is a PhD candidate in Linguistics and Cognitive Science at the University of Delaware. Her research interests include 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. candidate in the Department of Linguistics and Cognitive Science at the University of Delaware, advised by Rebecca Tollan and Michael Wilson. Previously, I obtained my M.S. degree from the University of Pennsylvania, primarily working with Nelson Flores. I’m interested in using experimental methods and computational tools to explore the cross-linguistic syntactic phenomena.
